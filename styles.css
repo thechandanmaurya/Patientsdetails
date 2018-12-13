@@ -1,0 +1,17 @@
+.patients{
+    width: 250px !important;
+    font-family: 'Adamina', serif;
+    font-size: 24px !important;
+}
+.Heading{
+    font-family: 'Volkhov', serif;
+}
+.doctores{
+    width: 300px !important;
+    font-family: 'Adamina', serif;
+    font-size: 25px !important;
+}
+.signature{
+   text-align: center;
+
+}
